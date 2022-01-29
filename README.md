@@ -38,7 +38,7 @@ PlanMyTrip, a top travel technology company, uses data to recommend ideal hotels
 
 Using OpenWeatherMap API, 747 unique cities were determined from 2000 randomly selected latitudes and longitudes. Then a dataframe was created based on the weather preferences retrieved for each city.
 
-![City_weather_dataframe]()
+![City_weather_dataframe](https://github.com/Nusratnimme/World_Weather_Analysis/blob/main/Resources/City_weather_dataframe.png)
 
 
 ### Create a Customer Travel Destinations Map
@@ -47,11 +47,11 @@ To get the preferred cities, a new dataframe was created with two input criteria
 
 Dataframe:
 
-![Hotels_df]()
+![Hotels_df](https://github.com/Nusratnimme/World_Weather_Analysis/blob/main/Resources/Hotels_df.png)
 
 Travel destinations map:
 
-![WeatherPy_vacation_map]()
+![WeatherPy_vacation_map](https://github.com/Nusratnimme/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png)
 
 
 ### Create a Travel Itinerary Map
@@ -60,8 +60,8 @@ A travel itinerary map showing the route between four cities in a given country 
 
 Travel itinerary map:
 
-![WeatherPy_travel_map]()
+![WeatherPy_travel_map](https://github.com/Nusratnimme/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
 
 Travel dstination map with markers:
 
-![WeatherPy_travel_map_markers]()
+![WeatherPy_travel_map_markers](https://github.com/Nusratnimme/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
