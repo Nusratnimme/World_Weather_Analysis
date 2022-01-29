@@ -43,7 +43,7 @@ Using OpenWeatherMap API, 747 unique cities were determined from 2000 randomly s
 
 ### Create a Customer Travel Destinations Map
 
-To get the preferred cities, a new dataframe was created with two input criteria - minimum and maximum temperature selected by customers. That dataframe was then cleaned by dropping the empty rows and null hotel entries. Marker layers map with pop-up markers were created for the remainder of the hotels.
+To get the preferred cities, a new dataframe was created with two input criteria - minimum and maximum temperature selected by customers. That dataframe was then cleaned by dropping the empty rows and null hotel entries. Marker layer map with pop-up marker for each city were created for the remainder of the hotels.
 
 Dataframe:
 
@@ -56,7 +56,7 @@ Travel destinations map:
 
 ### Create a Travel Itinerary Map
 
-A travel itinerary map showing the route between four cities in a given country was created by using Directions API from the customer’s preffered travel destinations. Then, a marker layers map with a pop-up markers for each city on the itinerary was generated.
+A travel itinerary map showing the route between four cities in a given country was created by using Directions API from the customer’s preffered travel destinations. Then, a marker layer map with a pop-up marker for each city on the itinerary was generated.
 
 Travel itinerary map:
 
